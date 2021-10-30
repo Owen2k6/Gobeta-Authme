@@ -1,5 +1,8 @@
 **Authme**
 
+
+Forked from RhysB/Authme-Expanded
+initial description:
 *A RetroMC and Betalands Fork*
 
 Original Plugin: https://github.com/whoami-plugins/authme-2.0
