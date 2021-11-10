@@ -16,6 +16,8 @@
 
 package uk.org.whoami.authme;
 
+import com.mysql.jdbc.Messages;
+import com.sun.scenario.Settings;
 import org.bukkit.Bukkit;
 import org.bukkit.entity.Player;
 import org.bukkit.event.Event;
@@ -42,6 +44,7 @@ import uk.org.whoami.authme.settings.Settings;
 import uk.org.whoami.authme.task.MessageTask;
 import uk.org.whoami.authme.task.TimeoutTask;
 
+import javax.sql.DataSource;
 import java.io.IOException;
 import java.sql.SQLException;
 import java.util.logging.Logger;
